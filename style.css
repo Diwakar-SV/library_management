@@ -1,0 +1,80 @@
+body{
+font-family:Arial;
+margin:0;
+background:#f4f6f9;
+}
+
+h1{
+background:#2c3e50;
+color:white;
+padding:15px;
+text-align:center;
+}
+
+.container{
+width:900px;
+margin:auto;
+background:white;
+padding:20px;
+margin-top:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.2);
+}
+
+input{
+padding:8px;
+margin:5px;
+}
+
+button{
+padding:8px 12px;
+background:#3498db;
+color:white;
+border:none;
+cursor:pointer;
+border-radius:5px;
+}
+
+button:hover{
+background:#2980b9;
+}
+
+table{
+width:100%;
+margin-top:10px;
+border-collapse:collapse;
+}
+
+th{
+background:#34495e;
+color:white;
+}
+
+th,td{
+padding:8px;
+border:1px solid #ccc;
+text-align:center;
+}
+
+.login-body{
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+background:linear-gradient(45deg,#667eea,#764ba2);
+}
+
+.login-container{
+background:white;
+padding:30px;
+border-radius:10px;
+width:300px;
+text-align:center;
+box-shadow:0 0 15px rgba(0,0,0,0.3);
+}
+.Name{
+    padding: 40px;
+    border-radius: 2px;
+    width: 500px;
+    align-items: end;
+}
